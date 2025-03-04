@@ -4,7 +4,7 @@
 
 -- --
 
-![image]("Assets/main image.png")
+![image](Assets/main%20image.png)
 
 -- -- 
 
